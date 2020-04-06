@@ -1,3 +1,7 @@
-.env
+# EDITOR
+.vscode/
 .idea/
-venv
+
+# ENV FILES
+.env
+venv/
